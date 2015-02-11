@@ -3,7 +3,7 @@
  * Plugin Name: About Me Page
  * Plugin URI: http://webcodingplace.com/about-me-page/
  * Description: Create your about me page in seconds, with different themes.
- * Version: 1.0.0
+ * Version: 1.0
  * Author: Rameez
  * Author URI: http://webcodingplace.com/
  * License: GPLv2 or later
