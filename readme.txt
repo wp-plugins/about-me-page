@@ -1,7 +1,7 @@
 === About Me Page ===
 Contributors: Rameez_Iqbal
 Tags: about, page, post, shortcode, profile, easy, about-me, simple, aboutus, bootstrap
-Donate link: http://webcodingplace.com/contact-us/
+Donate link: https://www.2checkout.com/checkout/purchase?sid=202485641&quantity=1&product_id=1
 Requires at least: 3.0
 Tested up to: 4.2.2
 Stable tag: 2.0
