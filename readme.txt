@@ -12,6 +12,8 @@ Create Unlimited about me pages in seconds, with different themes.
 
 == Description ==
 In these days it takes a long time to express yourself, or sometimes it is very difficult to choose design. I have made different ready to use designs for about me page. Just place shortcodes in pages and change settings from admin. 
+<br>
+<h3><a href="http://demos.webcodingplace.com/about-me-page-wordpress-plugin-demo/">DEMO</a></h3>
 
 == Installation ==
 1. Go to plugins in your dashboard and select \'add new\'
