@@ -21,7 +21,7 @@ class WCP_Options_About_Me {
 		?>
 			<div class="wrap" id="about-me">
 				<h2><?php _e( 'About Me Page', 'about-me-page' ); ?> <a title="<?php _e( 'Need Help', 'about-me-page' ); ?>?" target="_blank" href="http://webcodingplace.com/about-me-page-wordpress-plugin/"><span class="dashicons dashicons-editor-help"></span></a></h2>
-				<?php if (isset($allPages)) { ?>
+				<?php if (isset($allPages) && $allPages != '') { ?>
 				<div id="accordion">
 					<?php foreach ($allPages as $page) { ?>
 			  		<h3 class="tab-head"><?php echo $page['abname']; ?></h3>
